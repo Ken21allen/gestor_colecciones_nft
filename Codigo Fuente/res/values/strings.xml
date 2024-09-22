@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">Gestor de Colecciones NFT</string>
+    <string name="descripcion_del_nft_1">Bored Ape 4532 estilo 1.</string>
+    <string name="descripcion_del_nft_2">Bored Ape 7845 estilo 2.</string>
+    <string name="descripcion_del_nft_3">Bored Ape 1298 estilo 3.</string>
+    <string name="descripcion_del_nft_4">Bored Ape 3761 estilo 4.</string>
+    <string name="descripcion_del_nft_5">Bored Ape 8923 estilo 5.</string>
+    <string name="descripcion_del_nft_6">Bored Ape 5467 estilo 6.</string>
+    <string name="descripcion_del_nft_7">Bored Ape 2345 estilo 7.</string>
+    <string name="descripcion_del_nft_8">Bored Ape 6789 estilo 8.</string>
+    <string name="descripcion_del_nft_9">Bored Ape 3210 estilo 9.</string>
+    <string name="descripcion_del_nft_10">Bored Ape 9981 estilo 10.</string>
+    <string name="descripcion_del_nft_11">Bored Ape 4567 estilo 11.</string>
+    <string name="descripcion_del_nft_12">Bored Ape 2134 estilo 12.</string>
+    <string name="descripcion_del_nft_13">Bored Ape 7654 estilo 13.</string>
+    <string name="descripcion_del_nft_14">Bored Ape 8899 estilo 14.</string>
+    <string name="descripcion_del_nft_15">Bored Ape 4321 estilo 15.</string>
+    <string name="descripcion_del_nft_16">Bored Ape 6543 estilo 16.</string>
+    <string name="descripcion_del_nft_17">Bored Ape 1023 estilo 17.</string>
+    <string name="descripcion_del_nft_18">Bored Ape 5678 estilo 18.</string>
+    <string name="descripcion_del_nft_19">Bored Ape 9087 estilo 19.</string>
+</resources>
+

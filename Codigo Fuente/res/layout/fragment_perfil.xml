@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/ba_gif"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:src="@drawable/ba" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nombre: Bored Ape Yacht Club (BAYC)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Creadores: Yuga Labs (Greg Solano y Wylie Aronow)"
+            android:textSize="16sp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Variaciones: 10,000 NFTs únicos"
+            android:textSize="16sp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Popularidad: Una de las colecciones de NFTs más valiosas y populares, con propietarios famosos y ventas multimillonarias."
+            android:textSize="16sp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Beneficios: Acceso exclusivo a eventos, una comunidad privada, y otros beneficios para los propietarios."
+            android:textSize="16sp"
+            android:paddingBottom="8dp" />
+
+    </LinearLayout>
+</ScrollView>

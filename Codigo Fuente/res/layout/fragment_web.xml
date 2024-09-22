@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/urlInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Escribe la URL"
+        android:inputType="textUri" />
+
+    <WebView
+        android:id="@+id/webView"
+        android:background="@drawable/borde_redondeado"
+        android:clipToOutline="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btnCargar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="4sp"
+        android:text="Cargar"
+        android:background="@drawable/boton_negro_semitransparente"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

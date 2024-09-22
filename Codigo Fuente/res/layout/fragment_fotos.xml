@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/imageView0"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img0"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="Descripcion del NFT 0" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img1"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_1" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img2"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_2" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img3"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_3" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img4"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_4" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img5"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_5" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img6"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_6" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img7"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_7" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img8"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_8" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img9"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_9" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img10"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_10" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img11"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_11" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img12"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_12" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img13"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_13" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img14"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_14" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img15"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_15" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img16"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_16" />
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img17"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_17" />
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img18"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_18" />
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img19"
+            android:background="@drawable/borde_redondeado"
+            android:clipToOutline="true"
+            android:contentDescription="@string/descripcion_del_nft_19" />
+
+    </LinearLayout>
+</ScrollView>

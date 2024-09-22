@@ -1,0 +1,11 @@
+<resources>
+    <style name="BotonPersonalizado">
+        <item name="android:background">@drawable/boton_negro_semitransparente</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- White text color -->
+        <item name="android:padding">20dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>
